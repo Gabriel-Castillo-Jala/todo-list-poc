@@ -9,7 +9,7 @@
 
 # dependencies
 /front/node_modules
-
+/front/packge-lock.json
 # profiling files
 /front/chrome-profiler-events*.json
 
@@ -44,5 +44,6 @@
 .DS_Store
 Thumbs.db
 
-
+# Back
 /back/node_modules
+/back/paclage-lock.json
